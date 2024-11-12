@@ -1,0 +1,6 @@
+/Users/nishantg/Projects/ChubbBank/ChubbBank/bin/Debug/ChubbBank.exe
+/Users/nishantg/Projects/ChubbBank/ChubbBank/bin/Debug/ChubbBank.pdb
+/Users/nishantg/Projects/ChubbBank/ChubbBank/obj/Debug/ChubbBank.csproj.AssemblyReference.cache
+/Users/nishantg/Projects/ChubbBank/ChubbBank/obj/Debug/ChubbBank.csproj.CoreCompileInputs.cache
+/Users/nishantg/Projects/ChubbBank/ChubbBank/obj/Debug/ChubbBank.exe
+/Users/nishantg/Projects/ChubbBank/ChubbBank/obj/Debug/ChubbBank.pdb
